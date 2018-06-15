@@ -17,13 +17,13 @@ body {
 }
 
 h1 {
-  font-family: 'Satisfy', 'cursive';
-  font-size: 2.5em;
+  font-family: Arial;
+  font-size: 2em;
 }
 
 h2, p {
-  font-family: 'Pathway Gothic One', 'sans-serif';
-  font-size: 2em;
+  font-family: Arial;
+  font-size: 1em;
 }
 
 h1, h2, p {
@@ -54,7 +54,7 @@ h1, h2, p {
 #quizzie ul li {
 /*  display: inline-block;
   float: left; */
-  width: 50%;
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
